@@ -1,7 +1,7 @@
-echo "Hello World"           
-variable1=10
-v2="Shoyeb   Ansari"
-echo $variable1 "and" $v2
+var1=12
+echo $var1
 
-v3="pwd"
-echo $v3
+var2="A   B     C      D"
+echo $var2 
+echo "$var2"  
+echo '$var2'
